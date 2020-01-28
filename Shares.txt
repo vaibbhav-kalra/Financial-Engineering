@@ -1,0 +1,4 @@
+1000 Reliance 300
+1001 Nestle 150
+1001 CoalIndia 1200
+1002 Jubilant 127
